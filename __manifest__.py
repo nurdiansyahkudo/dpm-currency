@@ -15,7 +15,8 @@
     'website': '',
     'depends': ['base', 'account'],
     'data': [
-        'views/account_move_views.xml'
+        'views/account_move_views.xml',
+        'views/res_currency_views.xml',
     ],
     'license': 'AGPL-3',
     'installable': True,
